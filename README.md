@@ -46,5 +46,5 @@ Abra o projeto no seu editor de código na sua preferência, renomeie o arquivo 
 Com o terminal na pasta raiz do projeto, execute o comando:
 
 ```js
-npm dev
+npm run dev
 ```
